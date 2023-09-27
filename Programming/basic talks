@@ -1,0 +1,14 @@
+variable: It's a name given to a memory location where we stored a value
+
+Datatypes: 1. Primary Datatype --> Int, float, char, void, double
+                  i) Integer Datatype: whole numbers value (ex. 1,2 5,12 )
+                  ii) Float: fraction numbers  (ex. 20.5,45.285 ) 
+                  iii) character: One char only ( ex. 9, s, d )
+                  iv) double: used for store big number
+
+                  
+                  
+           2. Derived Datatype --> array, structure, union, pointers
+           3. user defined ------> typedef, enumeration
+            
+
